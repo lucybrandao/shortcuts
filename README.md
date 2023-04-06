@@ -1,1 +1,3 @@
 # shortcuts
+
+### - [Icons](icons.md)
